@@ -1,7 +1,8 @@
 ## E aí, pessoal que está sintonizando aqui no meu perfil! Eu sou Pedro Neves.
 
 - 🔭 Estou trabalhando atualmente com Financeiro/Contabilidade
-- 🌱 Estudando Engenharia da Computação
+- 🖥️ Estudando Engenharia da Computação - 04 de 10.
+- 👀 Procurando vaga de back-end.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
