@@ -1,7 +1,7 @@
 ## E aí, pessoal que está sintonizando aqui no meu perfil! Eu sou Pedro Neves.
 
 - 📈 Profissional com experiência em Finanças/Contabilidade
-- 🎓 Estudante de Engenharia da Computação (4º Semestre).
+- 🎓 Estudante de Engenharia da Computação (5º Semestre).
 - 💡 Atualmente em busca de uma vaga desafiadora como Desenvolvedor Back-end Júnior.
 - 🌐 Interesse em desenvolver soluções escaláveis utilizando Node.js
 
