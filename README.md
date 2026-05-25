@@ -2,14 +2,8 @@
 
 - 📈 Profissional com experiência em Finanças/Contabilidade
 - 🎓 Estudante de Engenharia da Computação (5º Semestre).
-- 💡 Atualmente em busca de uma vaga desafiadora como Desenvolvedor Júnior.
-- 🌐 Interesse em desenvolver soluções escaláveis utilizando Java.
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
-  
-  ##
+- 💡 Atualmente em busca de uma vaga de estágio em Cibersegurança
+- 🌐 Interesse em segurança de aplicações, análise de vulnerabilidades e desenvolvimento seguro com Java.
  
 <div> 
   <a href="https://www.instagram.com/neves._.20k" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
